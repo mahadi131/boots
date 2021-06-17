@@ -19,7 +19,7 @@ li a:hover{
     border-radius: 5px;
 }
 .main-body{
-    background: url(/background.jpg);
+    background: url(../background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-size: contain
